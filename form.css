@@ -1,0 +1,27 @@
+#form1 input{
+  max-width: 200px;
+  margin-bottom: 15px;
+  border: 2px #A65600 solid;
+  border-radius: 30px;
+  font-size: 18px;
+  height: 32px;
+  padding-left: 10px; 
+}
+#form1 input:focus{
+  outline: none;
+}
+#form1 button{
+  width:200px;
+  height: auto; 
+  border: 2px #A65600 solid;
+  background-color: #A65600;
+  color: white;
+  border-radius: 30px;
+  font-size: 28px;
+  padding: 5px;
+}
+#form1 button:hover{
+  color: #A65600;
+  cursor: pointer;
+  background-color: white;
+}
